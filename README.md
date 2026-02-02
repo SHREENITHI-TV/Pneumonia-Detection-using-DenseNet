@@ -62,4 +62,3 @@ The methodology, design, and results are documented in the included **PDF report
 * Model performance depends on dataset quality and size
 * GPU acceleration is recommended for training
 
-```
